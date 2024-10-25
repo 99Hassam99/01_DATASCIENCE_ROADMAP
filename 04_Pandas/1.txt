@@ -1,0 +1,12 @@
+What is data science?
+DS or data analytics is a process of analyzing large sets of data points to get answers
+on questions related to that data set
+
+What is pandas?
+Pandas is a python module that makes the data science easy and effective
+
+Excel is also used but what if we have million of data points to do data analytics on them.
+
+
+pip install notebook (installing jupyter)
+jupyter notebook (opening jupyter)

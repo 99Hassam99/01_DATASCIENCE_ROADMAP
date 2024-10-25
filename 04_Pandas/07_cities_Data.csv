@@ -1,0 +1,13 @@
+day,city,temperature,windspeed,event
+01/01/2024,peshawar,16,5,Rain
+01/02/2024,peshawar,17,7,Sunny
+01/03/2024,peshawar,20,3,Sunny
+01/04/2024,peshawar,19,2,Cloudy
+01/01/2024,Lahore,18,2,Sunny
+01/02/2024,Lahore,20,4,Fog
+01/03/2024,Lahore,24,1,Sunny
+01/04/2024,Lahore,21,3,Cloudy
+01/01/2024,London,3,10,Rain
+01/02/2024,London,1,8,snow
+01/03/2024,London,4,6,Cloudy
+01/04/2024,London,2,11,snow
