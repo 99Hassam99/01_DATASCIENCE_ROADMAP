@@ -1,0 +1,48 @@
+1st Step.
+For any project that is fully developed end to end, we need blueprint or building UI mockups.
+
+2nd step
+Tech architecture
+
+
+For UI we will be using,
+HTML, CSS, JavaScript, Bootstrap
+
+For backend,
+Python, Flask server
+
+DBMS
+MySQl
+
+3-Tier Application
+
+# search khan academy for free courses
+
+First of all we will be creating a DBMS for our application.(MySQL)
+Go to DB designer website
+
+
+
+
+
+
+
+UI(front end) =  [Product Web pages, order pages]
+
+Backend = [products python backend API, order python backend API]
+
+DATABASE = [Product database tables, orders database tables]
+
+
+For software project development companies use process called scrum.
+Scrum allows to break down and prioritize the tasks.
+The tool used for this process is called jira from atlasian
+(Scrum training series 15 mints videos)
+
+pip install mysql-connector-python
+
+
+
+when there is a problem in sql query search on google.
+For example:
+sql delete query (w3school)
