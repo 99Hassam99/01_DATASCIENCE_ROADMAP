@@ -1,0 +1,15 @@
+# Jarvis is a voice-activated virtual assistant designed to perform tasks such as web
+# browsing, playing music, fetching news, and responding to user queries using OpenAI's
+# GPT-3.5-turbo model
+# first of all pip install a package called speechrecognition pyaudio
+# then install pip setup tools
+# then use webbrowser which is built in.
+# then install pyttsx3
+# pip install pocketsphinx
+# news api (8df56b454b1d42d7ad3bb3c467bfe53f)
+# wit.ai
+# hugging face account
+# pip install transformers
+# pip install transformers torch
+# pip install huggingface_hub
+# api key "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" ___ huggingface
